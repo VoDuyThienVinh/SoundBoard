@@ -1,7 +1,7 @@
-const sounds = ['applause', 'boo', 'gasp', 'tada', 'victory', 'wrong']
+const sounds = ['gameover', 'whoosh', 'sweep-transition', 'fast-punch', 'game-notification', 'animal-roar']
 
 sounds.forEach(sound => {
-  const btn = document.createElement('button')
+  const btn = document.createElement('button');
   btn.classList.add('btn');
   btn.innerText = sound;
 
