@@ -37,7 +37,7 @@ https://voduythienvinh.github.io/SoundBoard/
 ## Adapted From: 😉
 
 Udemy Course: 50 Project in 50 Days - HTML, CSS & Javascript
-Project Name: Day 1 - Sound Board
+Project Name: Day 9 - Sound Board
 Create by: Brad Traversy, Florin Pop
 Last updated 12/2020
 URL: <https://www.udemy.com/course/50-projects-50-days/>
